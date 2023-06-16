@@ -1,4 +1,4 @@
-FROM alpine:3.7
+FROM alpine:3.16
 MAINTAINER shea.phillips@cloudcompass.ca
 
 RUN apk update && \
